@@ -1,6 +1,6 @@
-# vuelos-ar-automatizacion
+# Desarrollo de automatización y procesamiento de datos de vuelos.
 
-Este proyecto contiene la automatización y procesamiento de datos de vuelos en Argentina.
+Este proyecto contiene la automatización y procesamiento de datos de vuelos en Argentina, puntualmente en el aeropuerto de Córdoba.
 
 ## Estructura del proyecto
 
